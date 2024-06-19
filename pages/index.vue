@@ -1,7 +1,7 @@
 <template>
     <div>
         <NuxtLayout>
-
+            hossein
         </NuxtLayout>
     </div>
 </template>
