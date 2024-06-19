@@ -5,9 +5,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-9">
-                        <div class="mt-2">
+                        <section class="mt-3">
                             <Breadcrumb />
-                        </div>
+                        </section>
+                        <section class="mt-2">
+                            <Slider />
+                        </section>
                     </div>
                     <div class="col-md-3">
                         <div class="sidebar">

@@ -10,7 +10,7 @@
                         <p class="mb-0">{{ title }}</p>
                     </div>
                     <div>
-                        <Rate type="type-2" number="۴.۳" text="" rate="3" />
+                        <Rate type="type-2" number="۴.۳" text="" rate="2" />
                     </div>
                 </div>
             </div>
